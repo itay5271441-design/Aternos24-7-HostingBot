@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "abc1234567890.aternos.me",
-    "port": 51808,
+    "ip": "play123123.aternos.me:52002",
+    "port": 52002,
     "version": "",
     "try-creative": false
   },
